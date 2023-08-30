@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PixaCompose</string>
+    <string name="search_hint">Search for image here</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="error">Error</string>
+    <string name="error_details">"Error details: "</string>
+    <string name="dialog_popup_title">Question</string>
+    <string name="dialog_popup_message">Do you wish to see other information about the picture?</string>
+</resources>
